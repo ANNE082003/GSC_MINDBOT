@@ -28,7 +28,7 @@ python run.py
 - Conduct a mental health test
 - Mindfulness Exercises
 - Journalling for manual tracking
-- SOS Hotline (Only Malaysia)
+- SOS Hotline 
 - Edit profile
 
 ## Technical Domain
